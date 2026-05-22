@@ -1,0 +1,14 @@
+{
+  "name": "enterprise-cloud-architecture-pipeline",
+  "version": "5.0.4",
+  "description": "Production grade telemetry and matrix orchestration software microservice suite framework.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5"
+  },
+  "license": "MIT"
+}
